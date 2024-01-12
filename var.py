@@ -1,4 +1,4 @@
 import streamlit as st
 st.header('puppy')
 st.write('puppy')
-st.image('https://i.pining.com/564x/36/b4/ef/36b4ef433ac9c2cf9d34e54aa3a38340.jpg',caption='puppy')
+st.image('https://e0.pxfuel.com/wallpapers/944/816/desktop-wallpaper-cute-pomerian-puppy-cute-pomerian-puppy-background-on-bat-cute-little-puppy-thumbnail.jpg',caption='puppy')
